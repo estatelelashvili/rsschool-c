@@ -10,3 +10,4 @@ LinkedIn
 გამოცდილება
 განათლება და ა.შ.
 
+ <img class="myimg" width="250" alt="Tato" src="https://user-images.githubusercontent.com/35972253/163650990-27357360-9022-45c5-82c7-dad3a859f163.jpg">
